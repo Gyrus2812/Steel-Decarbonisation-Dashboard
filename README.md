@@ -1,2 +1,2 @@
 # Steel-Decarbonisation-Dashboard
-Steel Decarbonisation Dashboard: Interactive Streamlit application for analyzing industrial energy data, calculating Power Factor (PF) efficiency, modeling Load Shift scenarios, and performing advanced time series forecasting with CatBoost and SVR models.
+Steel Decarbonisation Dashboard: Interactive Streamlit application for analyzing industrial energy data, calculating Power Factor (PF) efficiency, modeling Load Shift scenarios, and performing advanced time series forecasting with CatBoost and SVR models. Data has been sourced from kaggle:https://www.kaggle.com/datasets/csafrit2/steel-industry-energy-consumption . Use this CSV file
