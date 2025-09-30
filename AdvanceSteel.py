@@ -1,7 +1,6 @@
 # steel_full_dashboard.py
 # --------------------------------------------------------------------
 # Steel & Power Decarbonisation Dashboard (FULL)
-# - FIX: Empty widget (container) removed from PF Correction and Load Shift tabs.
 # --------------------------------------------------------------------
 
 import streamlit as st
